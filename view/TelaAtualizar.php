@@ -44,7 +44,7 @@ $cidade = $_GET['cidade'];
         <div class="input-field col s12">
           <i class="material-icons prefix">account_circle</i>
           <input id="icon_prefix" name="nome" value="<?php echo $nome; ?>"type="text" class="validate">
-          <label for="icon_prefix">Nome</label>
+          <label for="icon_prefix">Nome Completo</label>
         </div>
       </div>
         

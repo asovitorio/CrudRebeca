@@ -23,7 +23,7 @@
   </div>
   
 </nav>
-      <h3>Cadastro</h3>
+      <h3>Cadastro de Pessoa</h3>
       <div class="row">
           <form class="col s12" method="get"  action="../contoroller/PessoaController.php" >
       <div class="row">
